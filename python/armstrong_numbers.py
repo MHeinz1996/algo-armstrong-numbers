@@ -19,3 +19,5 @@ def test_for_armstrong(numbers):
         return True
     else:
         return False
+
+# print(find_armstrong_numbers(list(range(0,20000))))
